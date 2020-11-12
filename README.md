@@ -1,3 +1,3 @@
-Je change le README en fait.
+NOUVELLE VERSION !!!!
 Voici le nouveau commit à partir de la UI GitHub
-Nouveau texte (conflit)
+Nouveau texte
